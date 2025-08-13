@@ -32,7 +32,7 @@ This code extracts the shape of a curve in 3D space from an Azure Kinect point c
 ## Prerequisites
 
 - Ubuntu 22.04.  
-- Azure Kinect SDK (see this repo: `!!!!!!!!`).  
+- Azure Kinect SDK [see this repo](https://github.com/byu-rad-lab/Spencer_S_Sandbox/blob/main/Azure%20Kinect%20with%20ROS2/README.md).
 
 ---
 
@@ -115,7 +115,5 @@ python3 Finding_arm_shape.py
 
 ## Helpful links
 
-* Azure Kinect SDK: `!!!!!!!!`.
-* Orientation / visualization for coordinate conventions: `!!!!!!!!`.
-* Personal notes with screenshots and statistics for the ground truth code (includes a discussion of drawbacks):
-  `https://docs.google.com/document/d/19dlQiKceWllj79F0mKil7e75QcpLl_2TVpSsGnVbJ_E/edit?usp=sharing`.
+* [Orientation / visualization for coordinate conventions](https://www.researchgate.net/figure/Azure-Kinects-spatial-coordinate-axis_fig1_387140385).
+* [Personal notes with screenshots and statistics for the ground truth code (includes a discussion of drawbacks)](https://docs.google.com/document/d/19dlQiKceWllj79F0mKil7e75QcpLl_2TVpSsGnVbJ_E/edit?usp=sharing).
